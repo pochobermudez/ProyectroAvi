@@ -1,3 +1,5 @@
 <HTML>
 
 mi archivo del front
+
+<FOOTER>
